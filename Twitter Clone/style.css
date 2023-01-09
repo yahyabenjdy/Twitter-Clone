@@ -30,3 +30,10 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+.left-content div {
+  display: flex;
+  align-items: center;
+  margin: 4rem;
+  color: #fff;
+}
