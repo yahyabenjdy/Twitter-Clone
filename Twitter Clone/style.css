@@ -20,3 +20,13 @@ body {
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: 1fr min-content;
 }
+
+/* Left */
+.left {
+  grid-column: 1 / 2;
+  grid-row: 1 / 2;
+  background-color: #1aa1f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
