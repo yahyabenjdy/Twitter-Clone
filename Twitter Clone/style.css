@@ -37,3 +37,8 @@ body {
   margin: 4rem;
   color: #fff;
 }
+
+.left-content i {
+  font-size: 3rem;
+  margin-right: 2rem;
+}
