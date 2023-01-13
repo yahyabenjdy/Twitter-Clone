@@ -45,9 +45,10 @@ body {
 
 .left-content-handling {
   font-size: 2rem;
-}
+
 /* right */
 .right {
   grid-column: 2 / -1;
   grid-row: 1 / 2;
+  position: relative;
 }
