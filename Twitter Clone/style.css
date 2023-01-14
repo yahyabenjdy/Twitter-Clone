@@ -69,7 +69,8 @@ body {
   border: 0.1rem solid #ddd;
   border-radius: 0.5rem;
   background-color: #fff;
-} 
+  transition: background-color 0.3s;
+}
 
 .right-content-form input:focus {
   background-color: #d9ebf7;
