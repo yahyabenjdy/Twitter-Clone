@@ -71,6 +71,11 @@ body {
   background-color: #fff;
 } 
 
+.right-content-form input:focus {
+  background-color: #d9ebf7;
+  outline: none;
+}
+
 .middle-content {
   position: absolute;
   top: 50%;
