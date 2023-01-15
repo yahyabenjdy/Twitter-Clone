@@ -75,7 +75,6 @@ body {
 
 .right-content-form input:focus {
   background-color: #d9ebf7;
-  outline: none;
 }
 
 .right-content-form label {
