@@ -98,6 +98,10 @@ body {
   transition: background-color 0.3s;
 }
 
+.btn-top:hover {
+  background-color: #d9ebf7;
+}
+
 .middle-content {
   position: absolute;
   top: 50%;
