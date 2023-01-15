@@ -86,6 +86,12 @@ body {
   color: #a7a6a6;
 }
 
+.btn-top {
+  width: 8rem;
+  background-color: #fff;
+  color: #1aa1f5;
+}
+
 .middle-content {
   position: absolute;
   top: 50%;
