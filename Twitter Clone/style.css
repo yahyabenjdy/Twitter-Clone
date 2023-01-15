@@ -77,6 +77,15 @@ body {
   outline: none;
 }
 
+.right-content-form label {
+  position: absolute;
+  top: 5.5rem;
+  left: 0;
+  font-size: 1.6rem;
+  font-weight: 300;
+  color: #a7a6a6;
+}
+
 .middle-content {
   position: absolute;
   top: 50%;
