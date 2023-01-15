@@ -95,6 +95,7 @@ body {
   font-size: 1.4rem;
   font-weight: bold;
   cursor: pointer;
+  transition: background-color 0.3s;
 }
 
 .middle-content {
