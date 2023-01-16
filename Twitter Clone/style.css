@@ -120,4 +120,6 @@ body {
 
 .middle-content h1 {
   font-size: 2.8rem;
+  margin-bottom: 4rem;
+  line-height: 4rem;
 }
