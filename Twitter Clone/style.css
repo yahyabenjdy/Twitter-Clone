@@ -123,3 +123,8 @@ body {
   margin-bottom: 4rem;
   line-height: 4rem;
 }
+
+.middle-content h4 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
