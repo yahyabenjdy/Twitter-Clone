@@ -110,3 +110,9 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+.middle-content i {
+  font-size: 4rem;
+  color: #1aa1f5;
+  margin-bottom: 2rem;
+}
