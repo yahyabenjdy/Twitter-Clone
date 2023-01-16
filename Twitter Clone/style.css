@@ -116,3 +116,7 @@ body {
   color: #1aa1f5;
   margin-bottom: 2rem;
 }
+
+.middle-content h1 {
+  font-size: 2.8rem;
+}
