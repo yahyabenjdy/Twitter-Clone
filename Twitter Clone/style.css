@@ -137,3 +137,8 @@ body {
   font-size: 1.6rem;
   cursor: pointer;
 }
+
+.sign-up {
+  background-color: #1aa1f5;
+  color: #fff;
+}
