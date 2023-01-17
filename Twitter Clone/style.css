@@ -133,4 +133,7 @@ body {
   margin: 0.8rem 0;
   padding: 0.5rem;
   border: 0.1rem solid #1aa1f5;
+  border-radius: 4rem;
+  font-size: 1.6rem;
+  cursor: pointer;
 }
