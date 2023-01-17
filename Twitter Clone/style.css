@@ -142,3 +142,7 @@ body {
   background-color: #1aa1f5;
   color: #fff;
 }
+
+.sign-up:hover {
+  background-color: #0f5d8d;
+}
