@@ -146,3 +146,7 @@ body {
 .sign-up:hover {
   background-color: #0f5d8d;
 }
+
+.log-in {
+  background-color: #fff;
+}
