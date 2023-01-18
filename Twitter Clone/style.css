@@ -156,3 +156,11 @@ body {
 }
 
 /* footer */
+
+.main-page-footer {
+  grid-column: 1 / -1;
+  grid-row: 2 / -1;
+  background-color: #f5f4f4;
+  padding: 1.5rem;
+  border-top: 0.1rem solid #ddd;
+}
