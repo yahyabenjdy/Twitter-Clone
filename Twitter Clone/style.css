@@ -164,3 +164,9 @@ body {
   padding: 1.5rem;
   border-top: 0.1rem solid #ddd;
 }
+
+.main-page-footer ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
