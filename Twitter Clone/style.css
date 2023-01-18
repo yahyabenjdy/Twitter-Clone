@@ -170,3 +170,11 @@ body {
   justify-content: center;
   list-style: none;
 }
+
+.main-page-footer a {
+  font-size: 1.6rem;
+  margin: 0 2rem;
+  text-decoration: none;
+  color: #444;
+  font-weight: 300;
+}
