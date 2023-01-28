@@ -191,5 +191,5 @@ body {
 }
 
 .login-page-nav {
-  
+  grid-column: 1 / -1;
 }
