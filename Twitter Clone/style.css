@@ -52,7 +52,7 @@ body {
 .right {
   grid-column: 2 / -1;
   grid-row: 1 / 2;
-  position: relative;
+  position: relative; 
 }
 
 .right-content-form {
