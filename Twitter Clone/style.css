@@ -23,7 +23,7 @@ body {
 } 
 
 /* Left */
-.left {
+.left { 
   grid-column: 1 / 2;
   grid-row: 1 / 2;
   background-color: #1aa1f5;
