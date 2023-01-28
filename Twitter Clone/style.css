@@ -54,7 +54,7 @@ body {
   grid-row: 1 / 2;
   position: relative;
 }
-
+ 
 .right-content-form {
   display: flex;
   justify-content: center;
