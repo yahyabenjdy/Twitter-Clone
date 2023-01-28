@@ -189,3 +189,7 @@ body {
   grid-template-rows: repeat(2, min-content) 1fr;
   row-gap: 1.5rem;
 }
+
+.login-page-nav {
+  
+}
