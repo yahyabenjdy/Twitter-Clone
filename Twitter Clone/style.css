@@ -27,7 +27,7 @@ body {
   grid-column: 1 / 2;
   grid-row: 1 / 2;
   background-color: #1aa1f5;  
-  display: flex; 
+  display: flex;  
   justify-content: center;
   align-items: center; 
 } 
