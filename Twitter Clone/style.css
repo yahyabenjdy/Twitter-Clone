@@ -22,7 +22,7 @@ body {
   grid-template-rows: 1fr min-content;
 } 
 
-/* Left */ 
+/* Left */  
 .left {
   grid-column: 1 / 2;
   grid-row: 1 / 2;
