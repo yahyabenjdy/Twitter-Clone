@@ -205,7 +205,7 @@ body {
   width: 100rem;
   margin: auto;
   display: flex;
-  list-style: 
+  list-style: none
 }
 
 .login {
