@@ -206,7 +206,7 @@ body {
   margin: auto;
   display: flex;
   list-style: none;
-}
+} 
 
 .login {
   grid-column: 2 / 3;
