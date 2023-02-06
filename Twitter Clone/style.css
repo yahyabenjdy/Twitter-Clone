@@ -204,7 +204,7 @@ body {
 .login-page-nav ul { 
   width: 100rem;
   margin: auto;
-  display: flex
+  display: flex;
 }
 
 .login {
