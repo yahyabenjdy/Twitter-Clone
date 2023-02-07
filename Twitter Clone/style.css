@@ -208,7 +208,7 @@ body {
   list-style: none;
 } 
 
-.login-page-nav li 
+.login-page-nav li {
 
 .login {
   grid-column: 2 / 3;
