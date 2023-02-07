@@ -53,7 +53,7 @@ body {
   grid-column: 2 / -1;
   grid-row: 1 / 2; 
   position: relative; 
-}
+} 
 
 .right-content-form {
   display: flex; 
