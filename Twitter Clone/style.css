@@ -28,7 +28,7 @@ body {
   grid-row: 1 / 2;
   background-color: #1aa1f5;    
   display: flex;   
-  justify-content: center; 
+  justify-content: center;  
   align-items: center; 
 } 
  
