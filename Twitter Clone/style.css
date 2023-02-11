@@ -220,7 +220,7 @@ body {
   font-size: 1.6rem;
   text-decoration: none;
   color: #555;
-  
+}
 
 .login {
   grid-column: 2 / 3;
