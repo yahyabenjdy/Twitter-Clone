@@ -212,6 +212,8 @@ body {
   margin: 0 1rem;
 } 
 
+
+
 .login {
   grid-column: 2 / 3;
   grid-row: 2 / 3;
