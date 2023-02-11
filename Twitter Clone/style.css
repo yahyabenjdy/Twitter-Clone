@@ -213,7 +213,7 @@ body {
 } 
 
 .login-page-nav li:hover {
-  margin-left: auto
+  margin-left: auto;
 
 .login {
   grid-column: 2 / 3;
