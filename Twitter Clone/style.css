@@ -212,7 +212,7 @@ body {
   margin: 0 1rem;
 } 
 
-.login-page-nav li:hover {
+.login-page-nav li {
   margin-left: auto;
 }
 
