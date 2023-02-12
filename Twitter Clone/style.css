@@ -212,7 +212,7 @@ body {
   margin: 0 1rem;
 } 
 
-.login-page-nav li:last- {
+.login-page-nav li:last-child {
   margin-left: auto;
 }
 
