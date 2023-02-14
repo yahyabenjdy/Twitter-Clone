@@ -232,6 +232,8 @@ body {
 
 .login-page-nav li:hover::after {
 
+}
+
 .login-page-nav a {
   font-size: 1.6rem;
   text-decoration: none;
