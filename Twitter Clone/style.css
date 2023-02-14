@@ -231,7 +231,7 @@ body {
 } 
 
 .login-page-nav li:hover::after {
-opacity:
+  opacity:1;
 }
 
 .login-page-nav a {
