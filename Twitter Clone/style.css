@@ -211,7 +211,7 @@ body {
 
 .login-page-nav li { 
   margin: 0 1rem;
-  position: relative;
+  position: relative; 
 } 
 
 .login-page-nav li:last-child {
