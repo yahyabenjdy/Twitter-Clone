@@ -238,7 +238,7 @@ body {
   font-size: 1.6rem;
   text-decoration: none;
   color: #555; 
-  
+  transition
 }
 
 .login-page-nav i {
