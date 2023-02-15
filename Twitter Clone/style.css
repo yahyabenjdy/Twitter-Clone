@@ -207,7 +207,7 @@ body {
   margin: auto;
   display: flex;
   align-items: flex-end; 
-  list-style: none;
+  list-style: none; 
 } 
 
 .login-page-nav li { 
