@@ -267,7 +267,8 @@ body {
   pading: 5rem 0 1rem 0;
 }
 
-.login-content h2
+.login-content h2 {
+  
 
 .login-footer {
   grid-column: 1 / -1;
