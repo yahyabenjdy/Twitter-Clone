@@ -264,8 +264,10 @@ body {
 .login-content {
   grid-column: 2 / -1;
   grid-row: 1 / 2;
+  
 }
 
 .login-footer {
   grid-column: 1 / -1;
   
+}
