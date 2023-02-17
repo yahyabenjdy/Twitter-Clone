@@ -264,7 +264,7 @@ body {
 .login-content {
   grid-column: 2 / -1;
   grid-row: 1 / 2;
-  pading
+  pading: 5rem
 }
 
 .login-footer {
