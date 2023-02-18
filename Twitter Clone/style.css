@@ -280,7 +280,7 @@ body {
 .login-form input:not(.login-form-checkbox) {
   width: 30rem;
   height: 3.5rem;
-  margin-bottom
+  margin-bottom: 1rem
 }
 
 .login-footer {
