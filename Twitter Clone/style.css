@@ -279,7 +279,8 @@ body {
 
 .login-form input {
   width: 30rem;
-  height: 3.5rem
+  height: 3.5rem;
+  
 
 .login-footer {
   grid-column: 1 / -1;
