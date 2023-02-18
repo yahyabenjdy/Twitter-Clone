@@ -272,7 +272,8 @@ body {
   margin-bottom: 3rem;
 }
 
-.login-form
+.login-form {
+  
 
 .login-footer {
   grid-column: 1 / -1;
