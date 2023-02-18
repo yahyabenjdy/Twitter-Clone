@@ -274,7 +274,8 @@ body {
 
 .login-form {
   display: flex;
-  flex-direction: column
+  flex-direction: column;
+  
 
 .login-footer {
   grid-column: 1 / -1;
