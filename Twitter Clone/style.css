@@ -292,7 +292,7 @@ body {
   background-color: #d9ebf7;
 }
 
-.login-form 
+.login-form div {
 
 .login-footer {
   grid-column: 1 / -1;
