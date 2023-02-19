@@ -288,7 +288,8 @@ body {
   transition: background-color 0.3s;
 }
 
-.login-form input:focus
+.login-form input:focus {
+  
 
 .login-footer {
   grid-column: 1 / -1;
