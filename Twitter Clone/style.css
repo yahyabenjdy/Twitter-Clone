@@ -296,7 +296,8 @@ body {
   margin-top: 2rem;
 } 
 
-.login-form button
+.login-form button {
+  
 
 .login-footer {
   grid-column: 1 / -1;
