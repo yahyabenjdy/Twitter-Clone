@@ -68,7 +68,7 @@ body {
 .right-content-form input { 
   width: 20rem; 
   height: 4.5rem;
-  margin-right: 1rem;
+  margin-right: 1rem; 
   font-size: 1.6rem;
   padding: 0 1rem;
   border: 0.1rem solid #ddd;
