@@ -285,6 +285,7 @@ body {
   border-radius: 0.5rem;
   padding-left: 1rem;
   font-size: 1.5rem;
+  transition
 }
 
 .login-footer {
