@@ -288,6 +288,8 @@ body {
   transition: background-color 0.3s;
 }
 
+
+
 .login-footer {
   grid-column: 1 / -1;
   grid-row: 2 / -1;
