@@ -310,7 +310,8 @@ body {
 
 .login-form label {
   font-size: 1.6rem;
-  font-weight: 300
+  font-weight: 300;
+  
 
 .login-footer {
   grid-column: 1 / -1;
