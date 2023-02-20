@@ -315,7 +315,7 @@ body {
 }
 
 .login-form a {
-  text-decoration: 
+  text-decoration: none;
 
 .login-footer {
   grid-column: 1 / -1;
