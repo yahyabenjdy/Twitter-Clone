@@ -326,5 +326,6 @@ body {
   background-color: #edf3f7;
   padding-left: 100px;
   display: flex;
-  flex-direction: column
+  flex-direction: column;
+  
 }
