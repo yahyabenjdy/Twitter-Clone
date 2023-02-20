@@ -308,7 +308,8 @@ body {
   cursor: pointer;
 }
 
-.login-form a 
+.login-form label {
+  
 
 .login-footer {
   grid-column: 1 / -1;
