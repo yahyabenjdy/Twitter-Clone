@@ -325,5 +325,5 @@ body {
   grid-row: 2 / -1;
   background-color: #edf3f7;
   padding-left: 100px;
-  display:
+  display: flex
 }
