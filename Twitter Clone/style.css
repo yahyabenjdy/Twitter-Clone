@@ -324,5 +324,6 @@ body {
   grid-column: 1 / -1;
   grid-row: 2 / -1;
   background-color: #edf3f7;
-  padding-left: 10rem;
+  padding-left: 100px;
+  
 }
