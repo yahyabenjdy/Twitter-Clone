@@ -314,7 +314,7 @@ body {
   margin-right: 1rem;
 }
 
-.login-form a
+.login-form a {
 
 .login-footer {
   grid-column: 1 / -1;
