@@ -259,7 +259,7 @@ body {
   display: grid;
   grid-template-columns: 10rem 8fr;
   grid-template-rows: 2fr 1fr;
-  box-shadow
+  box-shadow: 0 0 0.5rem
 } 
 
 .login-content { 
