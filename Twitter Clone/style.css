@@ -188,7 +188,7 @@ body {
 .login-page {
   width: 100%;
   height: 100vh;
-  display: grid;
+  display: none;
   grid-template-columns: minmax(5rem, 1fr) 2fr minmax(5rem, 1fr);
   grid-template-rows: repeat(2, min-content) 1fr;
   row-gap: 1.5rem;
