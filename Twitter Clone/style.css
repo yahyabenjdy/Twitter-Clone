@@ -384,5 +384,6 @@ body {
 .search-bar-input {
   width: 35rem;
   height: 3rem;
-  border: 0.1rem solid #d6e1e0;
+  border: 0.1rem solid #d6e1e9;
+  border-radius: 3rem;
 }
