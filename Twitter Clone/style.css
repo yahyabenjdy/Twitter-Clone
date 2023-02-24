@@ -393,4 +393,5 @@ body {
 
 .search-bar-input:focus {
   background-color: #fff;
+  border-color: #1aa1f5;
 }
