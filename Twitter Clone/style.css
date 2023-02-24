@@ -388,4 +388,5 @@ body {
   border-radius: 3rem;
   background-color: #d6e1e9;
   padding-left: 5rem;
+  transition: all 0.3s;
 }
