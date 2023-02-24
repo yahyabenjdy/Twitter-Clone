@@ -397,4 +397,5 @@ body {
 }
 
 .search-bar i {
+  position: absolute;
 }
