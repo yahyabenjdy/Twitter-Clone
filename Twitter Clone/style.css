@@ -377,4 +377,5 @@ body {
 }
 
 .search-bar {
+  display: flex;
 }
