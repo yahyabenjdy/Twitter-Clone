@@ -361,4 +361,5 @@ body {
 }
 
 .icons {
+  display: flex;
 }
