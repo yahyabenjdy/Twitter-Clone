@@ -406,4 +406,5 @@ body {
 
 .user {
   margin-left: 3rem;
+  display: flex;
 }
