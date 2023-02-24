@@ -356,4 +356,5 @@ body {
   height: 6.5rem;
   background-color: #fff;
   display: flex;
+  justify-content: center;
 }
