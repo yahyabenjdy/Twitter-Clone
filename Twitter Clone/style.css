@@ -379,6 +379,7 @@ body {
 .search-bar {
   display: flex;
   align-items: center;
+  position: relative;
 }
 
 .search-bar-input {
