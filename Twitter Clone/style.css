@@ -390,3 +390,6 @@ body {
   padding-left: 5rem;
   transition: all 0.3s;
 }
+
+.search-bar-input:focus {
+}
