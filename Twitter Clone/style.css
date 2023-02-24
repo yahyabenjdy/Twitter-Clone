@@ -362,4 +362,5 @@ body {
 
 .icons {
   display: flex;
+  align-items: center;
 }
