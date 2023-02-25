@@ -417,4 +417,6 @@ body {
 }
 
 .user-img-wrapper img {
+  width: 100%;
+  
 }
