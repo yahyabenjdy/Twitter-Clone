@@ -450,3 +450,8 @@ body {
   background-color: #fff;
   margin-top: 1.5rem;
 }
+
+.header-top {
+  display: flex;
+  align-items: center;
+}
