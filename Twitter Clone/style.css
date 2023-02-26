@@ -436,3 +436,8 @@ body {
 }
 
 /* feeds-content */
+
+.feeds-content {
+  display: grid;
+  grid-template-columns: minmax(5rem, 1fr) 60rem 40rem minmax(5rem, 1fr);
+}
