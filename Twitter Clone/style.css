@@ -443,3 +443,8 @@ body {
   grid-template-rows: repeat(2, min-content);
   padding-top: 6.5rem;
 }
+
+.feeds-header {
+  grid-column: 2 / 3;
+  grid-row: 1 / 2;
+}
