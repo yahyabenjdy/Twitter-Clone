@@ -474,3 +474,9 @@ body {
   padding: 1rem;
   border-bottom: 0.1rem solid #eee;
 }
+
+.header-img-wrapper {
+  width: 4rem;
+  height: 4rem;
+  margin-right: 1.5rem;
+}
