@@ -520,3 +520,15 @@ body {
   object-fit: cover;
   border-radius: 50%;
 }
+
+.post-img {
+  width: 48rem;
+  height: 30rem;
+}
+
+.post-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 1rem;
+}
