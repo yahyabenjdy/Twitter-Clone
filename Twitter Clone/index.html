@@ -1,21 +1,21 @@
-<!DOCTYPE html> 
-<html lang="en"> 
-  <head> 
-    <meta charset="UTF-8" /> 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
-    <title>Twitter</title> 
-    <link rel="shortcut icon" href="images/8twitter.png" type="image/x-icon" /> 
-    <link 
-      rel="stylesheet" 
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" 
-      integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" 
-      crossorigin="anonymous" 
-      referrerpolicy="no-referrer" 
-    /> 
-  
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Twitter</title>
+    <link rel="shortcut icon" href="images/8twitter.png" type="image/x-icon" />
     <link
-      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" 
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+      integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="style.css" />
@@ -26,20 +26,20 @@
       <!-- left-->
       <div class="left">
         <div class="left-content">
-          <div>   
+          <div>
             <i class="fas fa-search"></i>
-            <h3 class="left-content-heading">Find Your Interest</h3> 
+            <h3 class="left-content-heading">Find Your Interest</h3>
           </div>
           <div>
             <i class="fas fa-user-friends"></i>
-            <h3 class="left-content-heading"> 
+            <h3 class="left-content-heading">
               Explore what people are talking about
             </h3>
           </div>
           <div>
             <i class="fas fa-comment"></i>
             <h3 class="left-content-heading">Join the people</h3>
-          </div>  
+          </div>
         </div>
       </div>
       <!-- end of left -->
@@ -56,7 +56,7 @@
               <label>Forgot Password</label>
             </div>
             <button type="button" class="btn-top">Log In</button>
-          </form> 
+          </form>
           <div class="middle-content">
             <i class="fas fa-dove"></i>
             <h1>Explore what's happening in the world</h1>
@@ -70,7 +70,7 @@
       <!-- Footer -->
       <footer class="main-page-footer">
         <ul>
-          <li><a href="#">About</a></li> 
+          <li><a href="#">About</a></li>
           <li><a href="#">Blog</a></li>
           <li><a href="#">Help</a></li>
           <li><a href="#">Terms</a></li>
@@ -127,9 +127,9 @@
     </section>
 
     <!-- End Of Login Page -->
-    
+
     <!-- News-Feed-Page -->
-     
+
     <section class="feeds-page">
       <nav class="feeds-nav">
         <div class="icons">
@@ -138,7 +138,7 @@
           <a href=""><i class="far fa-bell"></i></a>
           <a href=""><i class="far fa-envelope"></i></a>
         </div>
-        
+
         <div class="search-bar">
           <i class="fas fa-search"></i>
           <input
@@ -147,46 +147,53 @@
             class="search-bar-imput"
           />
         </div>
-        
+
         <div class="user">
           <div class="user-img-wrapper">
-            <img src="images/user1.jpg"alt="" width="40" />
+            <img src="images/user1.jpg" alt="" width="40" />
           </div>
           <a href="#" class="user-link">Dipankar Das</a>
           <i class="fas fa-chevron-down"></i>
         </div>
       </nav>
-      
+
       <div class="feeds-content">
-      <div class="feeds-header">
-        <div class="header-top">
-          <h4>Home</h4>
-          <i class="far fa-start"></i>
-        </div>
-        
-        <div class="header-post">
-          <div class="header-img-wrapper">
-            <img src="images/user1.jpg" width="40">
+        <div class="feeds-header">
+          <div class="header-top">
+            <h4>Home</h4>
+            <i class="far fa-start"></i>
           </div>
-          <input type="text" placeholder="What's happening?">
-          <i class="far fa-image"></i>
-          <i class="fas fa-camera"></i>
-          <i class="far fa-chart-bar"></i>
+
+          <div class="header-post">
+            <div class="header-img-wrapper">
+              <img src="images/user1.jpg" width="40" />
+            </div>
+            <input type="text" placeholder="What's happening?" />
+            <i class="far fa-image"></i>
+            <i class="fas fa-camera"></i>
+            <i class="far fa-chart-bar"></i>
+          </div>
         </div>
-      </div>
-        
+
         <div class="posts">
           <div class="post">
             <div class="user-avatar">
               <img src="images/user2.jpg" />
             </div>
+            <div class="post-content">
+              <div class="post-user-info">
+                <h4>Helen Browni</h4>
+                <i class="fas fa-check-circle"></i>
+                <span>@helenbrowni . 15m</span>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </section>
-    
+
     <!-- End News-Feed-Page -->
-    
+
     <script src="script.js"></script>
   </body>
 </html>
