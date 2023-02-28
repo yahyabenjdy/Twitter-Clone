@@ -638,3 +638,20 @@ body {
   color: #1aa1f5;
   font-size: 1.5rem;
 }
+
+.follow-footer {
+  background-color: #f0f8fd;
+}
+
+.follow-footer ul {
+  list-style-type: none;
+  display: flex;
+  padding: 2rem 0;
+}
+
+.follow-footer a {
+  text-decoration: none;
+  font-size: 1.4rem;
+  color: #868383;
+  margin: 0 0.7rem;
+}
