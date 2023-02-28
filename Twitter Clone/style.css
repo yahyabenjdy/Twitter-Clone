@@ -628,3 +628,13 @@ body {
   font-size: 1.6rem;
   cursor: pointer;
 }
+
+.follow-link {
+  margin: 2rem 1rem;
+}
+
+.follow-link a {
+  text-decoration: none;
+  color: #1aa1f5;
+  font-size: 1.5rem;
+}
