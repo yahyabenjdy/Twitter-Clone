@@ -329,6 +329,36 @@
             </div>
             <button type="button" class="follow-btn">Follow</button>
           </div>
+          <div class="follow-user">
+            <div class="follow-user-img">
+              <img src="images/user6.jpg" />
+            </div>
+            <div class="follow-user-info">
+              <h4>Daisy Jim</h4>
+              <p>@daisy</p>
+            </div>
+            <button type="button" class="follow-btn">Follow</button>
+          </div>
+          <div class="follow-user">
+            <div class="follow-user-img">
+              <img src="images/user3.jpg" />
+            </div>
+            <div class="follow-user-info">
+              <h4>Aron Smith</h4>
+              <p>@aronsmith</p>
+            </div>
+            <button type="button" class="follow-btn">Follow</button>
+          </div>
+          <div class="follow-user">
+            <div class="follow-user-img">
+              <img src="images/user2.jpg" />
+            </div>
+            <div class="follow-user-info">
+              <h4>Silvie Finch</h4>
+              <p>@Silviefinch02</p>
+            </div>
+            <button type="button" class="follow-btn">Follow</button>
+          </div>
         </div>
       </div>
     </section>
