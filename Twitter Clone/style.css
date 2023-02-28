@@ -540,6 +540,21 @@ body {
   margin-right: 0.5rem;
 }
 
+.post-user-info i {
+  font-size: 1.6rem;
+  color: #1aa1f5;
+  margin-right: 0.5rem;
+}
+
+.post-user-info span {
+  font-size: 1.6rem;
+}
+
+.post-text {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
+
 .post-img {
   width: 48rem;
   height: 30rem;
