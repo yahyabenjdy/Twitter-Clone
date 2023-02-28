@@ -529,6 +529,16 @@ body {
   border-radius: 50%;
 }
 
+.post-user-info {
+  display: flex;
+  margin: 1rem 0;
+}
+
+.post-user-info h4 {
+  font-size: 1.6rem;
+  margin-right: 0.5rem;
+}
+
 .post-img {
   width: 48rem;
   height: 30rem;
