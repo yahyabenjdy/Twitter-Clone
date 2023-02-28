@@ -582,6 +582,13 @@ body {
   top: 8rem;
   left: 57%;
   background-color: #fff;
+  width: 35rem;
+}
+
+.follow-heading {
+  padding: 1rem;
+  font-size: 1.8rem;
+  border-bottom: 0.1rem solid #eee;
 }
 
 .follow-user-img {
