@@ -591,6 +591,13 @@ body {
   border-bottom: 0.1rem solid #eee;
 }
 
+.follow-user {
+  display: flex;
+  align-items: center;
+  padding: 1.5rem;
+  border-bottom: 0.1rem solid #eee;
+}
+
 .follow-user-img {
   width: 6rem;
   height: 6rem;
