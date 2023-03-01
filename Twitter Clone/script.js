@@ -9,10 +9,9 @@ const newsFeedPage = document.querySelector(".feeds-page");
 
 // Main Page
 
-const goToLoginPage = () => {
-  mainPage.style.display = "none";
-  loginPage.style.display = "grid";
-};
+const goToLoginPage = () => {};
+mainPage.style.display = "none";
+loginPage.style.display = "grid";
 
 middleContent.addEventListener("click", (e) => {
   if (e.target.classList[1] === "main-btn") {
@@ -21,10 +20,13 @@ middleContent.addEventListener("click", (e) => {
 });
 
 btnTop.addEventListener("click", () => {
-  const inputUserInfo = document.querySelector("user-info");
+  const inputUserInfo = document.querySelector(".user-info");
   const inputPassword = document.querySelector(".password");
 
   if (inputUserInfo.value !== "" && inputPassword.value !== "") {
     mainPage.style.display = "none";
+    newsFeedPage.style.display = "block";
+  } else {
+    goToLoginPage();
   }
 });
