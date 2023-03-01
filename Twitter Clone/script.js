@@ -9,9 +9,10 @@ const newsFeedPage = document.querySelector(".feeds-page");
 
 // Main Page
 
-const goToLoginPage = () => {};
-mainPage.style.display = "none";
-loginPage.style.display = "grid";
+const goToLoginPage = () => {
+  mainPage.style.display = "none";
+  loginPage.style.display = "grid";
+};
 
 middleContent.addEventListener("click", (e) => {
   if (e.target.classList[1] === "main-btn") {
