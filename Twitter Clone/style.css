@@ -729,4 +729,27 @@ body {
   top: 25%;
   left: 50%;
   transform: translate(-50%, -50%);
+  border-radius: 1.5rem;
+}
+
+.modal-header {
+  padding: 1.5rem 2.5rem;
+  display: flex;
+  align-items: center;
+  border-bottom: 0.1rem solid #eee;
+}
+
+.modal-header i {
+  font-size: 2.3rem;
+  color: #1aa1f5;
+  cursor: pointer;
+}
+
+.modal-header button {
+  margin-left: auto;
+  width: 8rem;
+  padding: 0.8rem 0.5rem;
+  background-color: #1aa1f5;
+  color: #fff;
+  font-size: 1.6rem;
 }
