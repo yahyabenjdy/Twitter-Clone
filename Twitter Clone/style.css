@@ -767,3 +767,19 @@ body {
   height: 4rem;
   margin-right: 1.5rem;
 }
+
+.modal-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.modal-input {
+  width: 53rem;
+  padding: 1rem 0 8rem 1rem;
+  background-color: #d6e1e9;
+  border: 0.1rem solid #eee;
+  border-radius: 1.5rem;
+  font-size: 1.6rem;
+}
