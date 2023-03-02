@@ -105,8 +105,16 @@
         <div class="login-content">
           <h2>Log In To Twitter</h2>
           <form class="login-form">
-            <input type="text" placeholder="Phone, Email, or Username" />
-            <input type="password" placeholder="Password" />
+            <input
+              type="text"
+              class="login-user-info"
+              placeholder="Phone, Email, or Username"
+            />
+            <input
+              type="password"
+              class="login-password"
+              placeholder="Password"
+            />
 
             <div>
               <button type="button" class="login-form-btn">Log In</button>
@@ -390,6 +398,36 @@
       <button type="button" class="post-btn">
         +<i class="fas fa-feather-alt"></i> Post
       </button>
+
+      <!-- Post-Modal -->
+
+      <div class="modal-wrapper">
+        <div class="modal">
+          <div class="modal-header">
+            <i class="fas fa-times"></i>
+            <button type="button">Post</button>
+          </div>
+          <div class="modal-body">
+            <div class="modal-img">
+              <img src="images/user1.jpg" width="40" />
+            </div>
+            <input
+              type="text"
+              placeholder="What's happening ?"
+              class="modal-input"
+            />
+            <i class="far fa-smile"></i>
+          </div>
+          <div class="modal-footer">
+            <div class="modal-icons">
+              <i class="far fa-image"></i>
+              <i class="fas fa-camera"></i>
+              <i class="far fa-chart-bar"></i>
+              <span>+</span>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
 
     <!-- End News-Feed-Page -->
