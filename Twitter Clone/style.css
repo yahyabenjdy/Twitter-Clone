@@ -847,6 +847,11 @@ body {
   visibility: hidden;
 }
 
+.sidebar-wrapper-display {
+  opacity: 1;
+  visibility: visible;
+}
+
 .sidebar {
   position: fixed;
   top: 0;
