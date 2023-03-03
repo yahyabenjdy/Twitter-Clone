@@ -56,3 +56,9 @@ loginFormBtn.addEventListener("click", () => {
     loginModal.style.display = "block";
   }
 });
+
+// News Feed Page
+// Post modal
+postBtn.addEventListener("click", () => {
+  modal.style.display = "block";
+});
