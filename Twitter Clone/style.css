@@ -845,6 +845,7 @@ body {
   left: 0;
   opacity: 0;
   visibility: hidden;
+  transition: all 0.5s;
 }
 
 .sidebar-wrapper-display {
@@ -862,6 +863,7 @@ body {
   padding: 2.5rem;
   box-sizing: border-box;
   box-shadow: -0.1rem 0 0.5rem rgba(0, 0, 0, 0.3);
+  transition: right 0.5s cubic-bezier(1, 0, 0, 1);
 }
 
 .sidebar-display {
