@@ -859,6 +859,10 @@ body {
   box-shadow: -0.1rem 0 0.5rem rgba(0, 0, 0, 0.3);
 }
 
+.sidebar-display {
+  right: 0;
+}
+
 .sidebar-header {
   display: flex;
   align-items: center;
