@@ -1015,6 +1015,7 @@ body {
   left: 0;
   transform: translateY(-50%);
   box-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.3);
+  transition: all 0.1s linear;
 }
 
 .move {
