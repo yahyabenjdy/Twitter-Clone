@@ -129,3 +129,4 @@ toggle.addEventListener("click", () => {
   );
   Array.from(borders).map((border) => border.classList.toggle("border-color"));
 });
+ 
