@@ -1038,3 +1038,359 @@ body {
 .border-color {
   border-color: #444 !important;
 }
+
+/* Response */
+@media (max-width: 1600px) {
+  /* news feed page */
+  .follow {
+    left: 58.5%;
+  }
+}
+
+@media (max-width: 1300px) {
+  /* Main Page */
+  .middle-content {
+    width: 60%;
+  }
+
+  .main-page-footer ul {
+    flex-wrap: wrap;
+  }
+
+  .main-page-footer li {
+    margin-bottom: 1rem;
+  }
+
+  /* Login-Page */
+  .login-page-nav ul {
+    width: 80rem;
+  }
+
+  .login {
+    width: 80rem;
+  }
+
+  .login-modal {
+    width: 60rem;
+  }
+
+  /* news feed page */
+
+  .follow {
+    left: 60%;
+  }
+}
+
+@media (max-width: 1100px) {
+  .main-page {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(2, 1fr) min-content;
+  }
+
+  .right {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+    width: 70%;
+    margin: auto;
+  }
+
+  .right-content-form {
+    display: none;
+  }
+
+  .left {
+    grid-row: 2 / 3;
+  }
+
+  .left-content {
+    width: 50%;
+    margin: auto;
+  }
+
+  .left-content h3 {
+    line-height: 3rem;
+  }
+
+  .main-page-footer {
+    grid-row: 3 / 4;
+  }
+
+  /* news feed page */
+  .feeds-content {
+    grid-template-columns: minmax(5rem, 1fr);
+  }
+
+  .search-bar {
+    display: none;
+  }
+
+  .follow {
+    display: none;
+  }
+
+  .post-btn {
+    left: 80%;
+  }
+}
+
+@media (max-width: 800px) {
+  .right {
+    width: 80%;
+  }
+
+  .middle-content i {
+    display: none;
+  }
+
+  .middle-content h1 {
+    margin-bottom: 2rem;
+  }
+
+  .middle-content h4 {
+    margin-bottom: 1rem;
+  }
+
+  .left-content {
+    width: 60%;
+  }
+}
+
+@media (max-width: 900) {
+  /* Login-Page */
+  .login-page-nav ul {
+    width: 60rem;
+  }
+
+  .login {
+    width: 60rem;
+  }
+
+  .login-modal {
+    width: 50rem;
+  }
+}
+
+@media (max-width: 700px) {
+  /* Login-Page */
+  .login-page-nav ul {
+    width: 50rem;
+  }
+
+  .login {
+    width: 50rem;
+  }
+
+  .login-modal {
+    width: 40rem;
+  }
+
+  /* news feed content */
+  .feeds-content {
+    grid-template-columns: 1fr;
+  }
+
+  .feeds-header {
+    grid-column: 1 / -1;
+  }
+
+  .posts {
+    grid-column: 1 / -1;
+  }
+
+  .modal {
+    width: 90%;
+  }
+
+  .modal-img {
+    flex-shrink: 0;
+  }
+
+  .post-btn {
+    left: 75%;
+    font-size: 1.8rem;
+    width: 11rem;
+    padding: 1.2rem 0.8rem;
+  }
+
+  .sidebar-list-1 li,
+  .sidebar-list-2 li {
+    margin-bottom: 1.5rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .main-page {
+    grid-template-rows: 1fr min-content;
+  }
+
+  .left {
+    display: none;
+  }
+
+  .right {
+    grid-row: 1 / 2;
+    width: 90%;
+  }
+
+  /* Login-Page */
+
+  .login-page-nav ul {
+    width: 40rem;
+  }
+
+  .login {
+    width: 40rem;
+    grid-template-columns: 5rem 8fr;
+  }
+
+  .login-form label {
+    font-size: 1.4rem;
+  }
+
+  .login-form a {
+    font-size: 1.4rem;
+  }
+
+  .login-footer {
+    padding-left: 5rem;
+  }
+
+  .login-footer p {
+    font-size: 1.4rem;
+  }
+
+  .login-modal {
+    width: 30rem;
+  }
+
+  .login-modal i {
+    top: 2.5rem;
+  }
+
+  .login-modal p {
+    font-size: 1.4rem;
+  }
+
+  /* news feed page */
+  .user a,
+  .user i {
+    display: none;
+  }
+
+  .header-post input {
+    width: 27rem;
+  }
+
+  .post-text {
+    width: 90%;
+  }
+
+  .post-img {
+    width: 90%;
+    height: 25rem;
+  }
+
+  .post-btn {
+    left: 70%;
+  }
+}
+
+@media (max-width: 500px) {
+  .middle-content {
+    font-size: 2.5rem;
+  }
+
+  /* Login-page */
+  .login-page-nav ul {
+    width: 35rem;
+  }
+
+  .login {
+    width: 30rem;
+    grid-template-columns: 2rem 8fr;
+  }
+
+  .login-form input:not(.login-form-checkbox) {
+    width: 20rem;
+  }
+
+  .login-form a {
+    display: block;
+    margin-top: 1.5rem;
+  }
+
+  .login-footer {
+    padding-left: 2rem;
+  }
+
+  /* news feed page */
+  .icons a {
+    margin-right: 5rem;
+  }
+
+  .header-img-wrapper {
+    display: none;
+  }
+
+  .header-post {
+    justify-content: center;
+  }
+
+  .header-post input {
+    width: 20rem;
+  }
+
+  .post {
+    padding: 1rem;
+  }
+
+  .user-avatar {
+    width: 4rem;
+    height: 4rem;
+    margin-right: 1rem;
+  }
+}
+
+@media (max-width: 400px) {
+  /* Login page */
+  .login-page-nav ul {
+    width: 31.5rem;
+  }
+
+  .login-page {
+    grid-template-columns: 2rem 2fr 2rem;
+  }
+
+  .login {
+    width: 100%;
+  }
+
+  .login-modal {
+    width: 25rem;
+  }
+
+  /* news feed page */
+  .icons i {
+    font-size: 2rem;
+  }
+
+  .icons a {
+    margin-right: 4rem;
+  }
+
+  .user {
+    margin-left: 1rem;
+  }
+
+  .header-post input {
+    width: 16rem;
+  }
+
+  .header-post i {
+    font-size: 2rem;
+  }
+
+  .post-icons i {
+    left: 60%;
+  }
+}
