@@ -1022,3 +1022,19 @@ body {
   left: 2.5rem;
   background-color: #117abb;
 }
+
+.dark-1 {
+  background-color: #1c2938;
+}
+
+.dark-2 {
+  background-color: #10171e;
+}
+
+.light {
+  color: #fff;
+}
+
+.border-color {
+  border-color: #444;
+}
