@@ -117,9 +117,13 @@ xBtn.addEventListener("click", () => {
 
 const darkElement1 = document.querySelectorAll(".dark-mode-1");
 const darkElement2 = document.querySelectorAll(".dark-mode-2");
+const lightTexts = document.querySelectorAll(".light-text");
 
 toggle.addEventListener("click", () => {
   circle.classList.toggle("move");
   Array.from(darkElement1).map((darkEl1) => darkEl1.classList.toggle("dark-1"));
   Array.from(darkElement2).map((darkEl2) => darkEl2.classList.toggle("dark-2"));
+  Array.from(lightTexts).map((lightTexts) =>
+    lightTexts.classList.toggle("light")
+  );
 });
